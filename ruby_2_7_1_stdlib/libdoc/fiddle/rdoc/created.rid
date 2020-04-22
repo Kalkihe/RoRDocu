@@ -1,0 +1,17 @@
+Wed, 01 Apr 2020 15:58:38 -0700
+fiddle/closure.c	Wed, 01 Apr 2020 14:03:42 -0700
+fiddle/conversions.c	Wed, 01 Apr 2020 14:03:42 -0700
+fiddle/fiddle.c	Wed, 01 Apr 2020 14:03:42 -0700
+fiddle/function.c	Wed, 01 Apr 2020 14:03:42 -0700
+fiddle/handle.c	Wed, 01 Apr 2020 14:03:42 -0700
+fiddle/lib/fiddle/closure.rb	Wed, 01 Apr 2020 14:03:42 -0700
+fiddle/lib/fiddle/cparser.rb	Wed, 01 Apr 2020 14:03:42 -0700
+fiddle/lib/fiddle/function.rb	Wed, 01 Apr 2020 14:03:42 -0700
+fiddle/lib/fiddle/import.rb	Wed, 01 Apr 2020 14:03:42 -0700
+fiddle/lib/fiddle/pack.rb	Wed, 01 Apr 2020 14:03:42 -0700
+fiddle/lib/fiddle/struct.rb	Wed, 01 Apr 2020 14:03:42 -0700
+fiddle/lib/fiddle/types.rb	Wed, 01 Apr 2020 14:03:42 -0700
+fiddle/lib/fiddle/value.rb	Wed, 01 Apr 2020 14:03:42 -0700
+fiddle/lib/fiddle.rb	Wed, 01 Apr 2020 14:03:42 -0700
+fiddle/pointer.c	Wed, 01 Apr 2020 14:03:42 -0700
+fiddle/win32/libffi-config.rb	Wed, 01 Apr 2020 14:03:42 -0700

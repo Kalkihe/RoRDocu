@@ -1,0 +1,12 @@
+Wed, 01 Apr 2020 16:00:37 -0700
+ripper/eventids2.c	Wed, 01 Apr 2020 14:03:44 -0700
+ripper/lib/ripper/core.rb	Wed, 01 Apr 2020 14:03:44 -0700
+ripper/lib/ripper/filter.rb	Wed, 01 Apr 2020 14:03:44 -0700
+ripper/lib/ripper/lexer.rb	Wed, 01 Apr 2020 14:03:44 -0700
+ripper/lib/ripper/sexp.rb	Wed, 01 Apr 2020 14:03:44 -0700
+ripper/lib/ripper.rb	Wed, 01 Apr 2020 14:03:44 -0700
+ripper/tools/dsl.rb	Wed, 01 Apr 2020 14:03:44 -0700
+ripper/tools/generate-param-macros.rb	Wed, 01 Apr 2020 14:03:44 -0700
+ripper/tools/generate.rb	Wed, 01 Apr 2020 14:03:44 -0700
+ripper/tools/preproc.rb	Wed, 01 Apr 2020 14:03:44 -0700
+ripper/tools/strip.rb	Wed, 01 Apr 2020 14:03:44 -0700

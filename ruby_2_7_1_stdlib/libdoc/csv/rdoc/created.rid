@@ -1,0 +1,12 @@
+Wed, 01 Apr 2020 15:58:09 -0700
+csv.rb	Wed, 01 Apr 2020 14:03:47 -0700
+csv/core_ext/array.rb	Wed, 01 Apr 2020 14:03:47 -0700
+csv/core_ext/string.rb	Wed, 01 Apr 2020 14:03:47 -0700
+csv/delete_suffix.rb	Wed, 01 Apr 2020 14:03:47 -0700
+csv/fields_converter.rb	Wed, 01 Apr 2020 14:03:47 -0700
+csv/match_p.rb	Wed, 01 Apr 2020 14:03:47 -0700
+csv/parser.rb	Wed, 01 Apr 2020 14:03:47 -0700
+csv/row.rb	Wed, 01 Apr 2020 14:03:47 -0700
+csv/table.rb	Wed, 01 Apr 2020 14:03:47 -0700
+csv/version.rb	Wed, 01 Apr 2020 14:03:47 -0700
+csv/writer.rb	Wed, 01 Apr 2020 14:03:47 -0700
